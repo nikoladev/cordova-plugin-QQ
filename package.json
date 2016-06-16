@@ -1,0 +1,40 @@
+{
+  "name": "cordova-plugin-qqsdk",
+  "version": "0.4.0",
+  "description": "codrova/phonegap wrapper for qq sdk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/borisavilov/cordova-plugin-QQ.git"
+  },
+  "cordova": {
+    "id": "cordova-plugin-qqsdk",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
+    "cordova",
+    "phonegap",
+    "plugin",
+    "qqsdk",
+    "qq",
+    "Tencent",
+    "login",
+    "share",
+    "favorites"
+  ],
+  "author": "https://github.com/borisavilov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/borisavilov/cordova-plugin-QQ/issues"
+  },
+  "homepage": "https://github.com/borisavilov/cordova-plugin-QQ"
+}
